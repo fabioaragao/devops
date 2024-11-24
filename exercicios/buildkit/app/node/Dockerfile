@@ -2,7 +2,7 @@
 FROM node
 
 # Autor/Mantenedor
-MAINTAINER Jonathan Baraldi
+LABEL Mantenedor="Fabio Aragao"
 
 
 RUN mkdir -p /src 
